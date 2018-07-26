@@ -1,4 +1,4 @@
-Here is some stub code for the function Unix.truncate for windows.
+Here is some stub code for the ocaml function Unix.truncate for windows.
 
 found the code on Rosettacode:
 ```
